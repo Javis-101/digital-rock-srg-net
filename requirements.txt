@@ -1,0 +1,4 @@
+# Core (architecture + training)
+torch>=2.0
+lightning>=2.0
+numpy>=1.24
